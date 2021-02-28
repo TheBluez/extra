@@ -1,0 +1,26 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Didact Gothic" href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" />
+  </mj-head>
+  <mj-body background-color="#FFE6CC" >
+    <mj-section background-color="#1d1e1f">
+      <mj-column>
+        <mj-image width="200px" src="https://thebluez.gr/wp-content/uploads/elementor/thumbs/thebleuz-gr-logo-retina-og48iob340xdcjxmu5kv6o9j68g6fqv9cirhmmm61s.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text  font-family="Didact Gothic" font-size="20px">Απόρριψη κειμένου</mj-text>
+        <mj-divider border-color="#2d2e2f"></mj-divider>
+
+        <mj-text font-family="Didact Gothic">Σας ενημερώνουμε ότι το κείμενό σας με τίτλο <i>{{title}}</i> δεν θα δημοσιευτεί στον ιστότοπο <a href="https://thebluez.gr">TheBluez.gr</a>.</mj-text>
+        <mj-text font-family="Didact Gothic">Ο/η επιμελητής/επιμελήτρια το απέρριψε με αιτιολογία: <b>{{reason}}.</b></mj-text>
+        <mj-text font-family="Didact Gothic">Επιπλέον, παρέθεσε τα παρακάτω σχόλια:</mj-text>
+        <mj-text font-family="Didact Gothic">{{notes}}</mj-text>
+        <mj-text font-family="Didact Gothic">Είμαστε στη διάθεσή σας για οποιαδήποτε περαιτέρω πληροφορία ή διευκρίνιση.</mj-text>
+        <mj-text font-family="Didact Gothic"><i>&mdash; Η ομάδα επιμέλειας του TheBluez.gr</i></mj-text>
+        <mj-text font-family="Didact Gothic" align="center" font-size="9px">Αυτό είναι ένα αυτοματοποιημένο μήνυμα ηλεκτρονικού ταχυδρομείου</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
